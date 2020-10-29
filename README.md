@@ -1,2 +1,2 @@
 # Whatsmail
-Send Gmail notification to whatsapp through python
+Send Gmail notification to whatsapp through python.
